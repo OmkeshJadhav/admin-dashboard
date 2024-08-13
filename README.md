@@ -1,7 +1,9 @@
 <h1 align="center">React Admin Dashboard</h1>
+<img src="/screenshot-for-readme-1.png" />
+<img src="/screenshot-for-readme-2.png" />
+<img src="/screenshot-for-readme-3.png" />
 
-### This is a free admin dashboard ui kit built with:
-
+### This is a admin dashboard built with:
 -   React
 -   Tailwind CSS
 -   Recharts
